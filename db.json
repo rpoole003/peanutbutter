@@ -51,37 +51,37 @@
    "channels":[
       {
          "id":"870a00de-b461-4511-bab0-389bb64ea57d",
-         "name":"amet",
+         "username":"amet",
          "title":"tempor",
          "participants_count":26
       },
       {
          "id":"dcd70318-439e-43f8-87e8-30338759f723",
-         "name":"nisi",
+         "username":"nisi",
          "title":"commodo",
          "participants_count":32
       },
       {
          "id":"81b6949a-dea0-4330-9f3b-499251919cf1",
-         "name":"voluptate",
+         "username":"voluptate",
          "title":"exercitation",
          "participants_count":30
       },
       {
          "id":"c20a8495-c8c9-4d76-8051-3ded858a8779",
-         "name":"qui",
+         "username":"qui",
          "title":"cupidatat",
          "participants_count":27
       },
       {
          "id":"eb061101-d913-4fad-8664-a485b4981d25",
-         "name":"sint",
+         "username":"sint",
          "title":"aliqua",
          "participants_count":26
       },
       {
          "id":"6d33f468-5963-45b5-9401-1c32421da320",
-         "name":"fugiat",
+         "username":"fugiat",
          "title":"consectetur",
          "participants_count":25
       }

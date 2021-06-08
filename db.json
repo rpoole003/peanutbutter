@@ -3,7 +3,8 @@
          {
             "id":"e36a3d16-f9bd-4eff-b18b-59114c30341c",
             "account":"ad",
-            "load":37
+            "load":37,
+            "isTaskable":true
          },
          {
             "id":"802abeaf-4139-48f3-87ed-d820ac2453e8",

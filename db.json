@@ -114,5 +114,6 @@
          "numberOfParticipants":25,
          "lastUpdateTimeDate": "2021-04-20"
       }
-   ]
+   ],
+   "lanes": ["1", "2", "3"]
 }

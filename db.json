@@ -116,5 +116,87 @@
          "lastUpdateTimeDate": "2021-04-20"
       }
    ],
-   "lanes": ["1", "2", "3"]
+   "lanes": ["1", "2", "3"],
+   "both": [
+        {
+          "id": "60bfa16284e95d403d809124",
+          "accessHash": "60bfa162941d824092490b65",
+          "account": "consequat",
+          "title": "nisi",
+          "username": "Lorem",
+          "numberOfParticipants": 29
+        },
+        {
+          "id": "60bfa16274c2e06d827d4222",
+          "accessHash": "60bfa162cd8beb53e83fa71b",
+          "account": "quis",
+          "title": "excepteur",
+          "username": "cupidatat",
+          "numberOfParticipants": 28
+        },
+        {
+          "id": "60bfa16270464a2e12522957",
+          "accessHash": "60bfa162b686432c7c313aaf",
+          "account": "culpa",
+          "title": "nulla",
+          "username": "eu",
+          "numberOfParticipants": 29
+        },
+        {
+          "id": "60bfa1623ad3a9e23ef3aa01",
+          "accessHash": "60bfa1624bf11ab88dbe82e8",
+          "account": "ex",
+          "title": "quis",
+          "username": "proident",
+          "numberOfParticipants": 40
+        },
+        {
+          "id": "60bfa1627aa59e63f0e533af",
+          "accessHash": "60bfa162d2ab09b19708a662",
+          "account": "in",
+          "title": "nisi",
+          "username": "sit",
+          "numberOfParticipants": 31
+        },
+        {
+          "id": "60bfa1629ffa75a85933c072",
+          "accessHash": "60bfa16229b76cb1adc7803b",
+          "account": "nostrud",
+          "title": "ut",
+          "username": "consequat",
+          "numberOfParticipants": 23
+        },
+        {
+          "id": "60bfa1628554d1fff9b24a96",
+          "accessHash": "60bfa162ede1c57a6eb04c83",
+          "account": "laboris",
+          "title": "incididunt",
+          "username": "et",
+          "numberOfParticipants": 34
+        },
+        {
+          "id": "60bfa162165ae254c30bf928",
+          "accessHash": "60bfa16218e5e58db8f62e91",
+          "account": "laboris",
+          "title": "non",
+          "username": "sit",
+          "numberOfParticipants": 27
+        },
+        {
+          "id": "60bfa162f6488fa3b5121bd3",
+          "accessHash": "60bfa162c2d3a661d2ec4980",
+          "account": "ad",
+          "title": "laboris",
+          "username": "incididunt",
+          "numberOfParticipants": 36
+        },
+        {
+          "id": "60bfa162872c4c0d0265c7e8",
+          "accessHash": "60bfa162edb3e8334ee0dd44",
+          "account": "culpa",
+          "title": "officia",
+          "username": "consequat",
+          "numberOfParticipants": 31
+        }
+ ]
 }

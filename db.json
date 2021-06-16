@@ -124,7 +124,8 @@
           "account": "consequat",
           "title": "nisi",
           "username": "Lorem",
-          "numberOfParticipants": 29
+          "numberOfParticipants": 29,
+          "canLeave": true
         },
         {
           "id": "60bfa16274c2e06d827d4222",
@@ -132,7 +133,8 @@
           "account": "quis",
           "title": "excepteur",
           "username": "cupidatat",
-          "numberOfParticipants": 28
+          "numberOfParticipants": 28,
+          "canLeave": true
         },
         {
           "id": "60bfa16270464a2e12522957",
@@ -140,7 +142,8 @@
           "account": "culpa",
           "title": "nulla",
           "username": "eu",
-          "numberOfParticipants": 29
+          "numberOfParticipants": 29,
+          "canLeave": true
         },
         {
           "id": "60bfa1623ad3a9e23ef3aa01",
@@ -156,7 +159,8 @@
           "account": "in",
           "title": "nisi",
           "username": "sit",
-          "numberOfParticipants": 31
+          "numberOfParticipants": 31,
+          "canLeave": false
         },
         {
           "id": "60bfa1629ffa75a85933c072",
@@ -164,7 +168,8 @@
           "account": "nostrud",
           "title": "ut",
           "username": "consequat",
-          "numberOfParticipants": 23
+          "numberOfParticipants": 23,
+          "canLeave": true
         },
         {
           "id": "60bfa1628554d1fff9b24a96",
@@ -172,7 +177,8 @@
           "account": "laboris",
           "title": "incididunt",
           "username": "et",
-          "numberOfParticipants": 34
+          "numberOfParticipants": 34,
+          "canLeave": false
         },
         {
           "id": "60bfa162165ae254c30bf928",
@@ -180,7 +186,8 @@
           "account": "laboris",
           "title": "non",
           "username": "sit",
-          "numberOfParticipants": 27
+          "numberOfParticipants": 27,
+          "canLeave": true
         },
         {
           "id": "60bfa162f6488fa3b5121bd3",
@@ -188,7 +195,8 @@
           "account": "ad",
           "title": "laboris",
           "username": "incididunt",
-          "numberOfParticipants": 36
+          "numberOfParticipants": 36,
+          "canLeave": false
         },
         {
           "id": "60bfa162872c4c0d0265c7e8",
@@ -196,7 +204,8 @@
           "account": "culpa",
           "title": "officia",
           "username": "consequat",
-          "numberOfParticipants": 31
+          "numberOfParticipants": 31,
+          "canLeave": false
         }
  ]
 }
